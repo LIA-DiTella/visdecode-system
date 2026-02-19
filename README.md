@@ -69,7 +69,7 @@ This creates a continuous **feedback loop** that balances automated guidance wit
 ## Recommendation Manifold
 
 <p align="center">
-  <img src="assets/recommendation_manifold.png" width="850"/>
+  <img src="figure.jpg" width="850"/>
 </p>
 
 **Figure.** UMAP projection of the 1,536-dimensional embeddings of 10,452 generated visualization design recommendations.
