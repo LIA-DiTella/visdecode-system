@@ -6,6 +6,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-Read%20Paper-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![VisDecode](https://img.shields.io/badge/Web%20Page-visdecode.ai-FDBA49.svg)](https://visdecode.ai)
+[![Poster](https://img.shields.io/badge/Poster-pdf%20-8d32a8.svg)](system_poster.pdf)
 
 ---
 
